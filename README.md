@@ -1,7 +1,6 @@
 # Software para la Interpretación y Análisis de la Información para la Investigación Científica
 
-Código y demás para el curso Software para la interpretación y análisis de la información de la Especialización en Investigación Científica de la Escuela de Estudios de Postgrado de la Facultad de Ingeniería. 
-Universidad de San Carlos de Guatemala
+Código y demás contenido para el curso Software para la interpretación y análisis de la información de la Especialización en Investigación Científica de la Escuela de Estudios de Postgrado de la Facultad de Ingeniería.Universidad de San Carlos de Guatemala
 
 
 ### Competencias terminales
@@ -9,7 +8,7 @@ Al finalizar el curso el estudiante desarrolla las siguientes competencias:
 > Comprender, conocer y dominar el uso de R Studio para el análisis estadístico en investigación, estudio y experimentación. 
 
 ### Objetivos 
-1.	Calcular estadísticas descriptivas.
+1.	Calcular estadísticas descriptivas
 2.	Realizar graficas estadísticas
 3.	Hacer pruebas de hipótesis para la media y varianza
 4.	Efectuar regresiones lineales y análisis de varianza
@@ -25,5 +24,7 @@ Al finalizar el curso el estudiante desarrolla las siguientes competencias:
 - Regresión y Análisis de varianza
 
 
+####*Más información *
+[ESPECIALIZACIÓN EN INVESTIGACIÓN CIENTÍFICA](https://postgrado.ingenieria.usac.edu.gt/eepespecializaciones/especializacion-en-investigacion-cientifica/)
 
 
