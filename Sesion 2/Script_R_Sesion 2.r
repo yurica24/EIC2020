@@ -1,5 +1,6 @@
 #Sesión 2
 #Software para la interpretación y análisis de la información para la investigación científica 
+#Sección A
 
 #Estadística descriptiva 
 # Medidas de Tendencia Central
