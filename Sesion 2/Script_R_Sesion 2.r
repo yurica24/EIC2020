@@ -93,8 +93,14 @@
    
   skew(trees$Height)
   kurtosi(trees$Height)
-  plot(trees$Height)
+  mardia(trees$Height, plot= TRUE)
+  #plot(trees$Height)
   
   
-
-  
+x <- c(2,3,4,5,6,7,8,9)
+y <- c(1,5,28,70,89,33,16,8)  
+curtosis <- data.frame(cbind(x,y))
+curtosis  
+kurtosi(curtosis)
+?kurtosi
+mardia(curtosis, plot = TRUE)
