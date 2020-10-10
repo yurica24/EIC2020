@@ -47,7 +47,7 @@ chi_sd2
 #7 verificación
 X2< chi_sd2
 #se acepta la h0 que indica que el valor de sigma es mayor o igual a 0.36
-#hay suficiente evidencia estadística para inferir que la hipótesis nula es falsa
+#hay suficiente evidencia estadística para inferir que la hipótesis nula no es falsa
 
 
 #prueba de hipótesis de valor mayor 
