@@ -63,7 +63,7 @@ chi_sd2
 #7 verificación
 X2> chi_sd2
 #se rechaza la h0 que indica que el valor de sigma es menor o igual a 0.36
-#no hay suficiente evidencia estadística para inferir que la hipótesis nula es falsa
+# hay suficiente evidencia estadística para inferir que la hipótesis nula es falsa
 
 
 ###REGRESIÓN LINEAL****
