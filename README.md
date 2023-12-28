@@ -25,6 +25,6 @@ Al finalizar el curso el estudiante desarrolla las siguientes competencias:
 
 
 #### **Más información**
-[ESPECIALIZACIÓN EN INVESTIGACIÓN CIENTÍFICA](https://postgrado.ingenieria.usac.edu.gt/eepespecializaciones/especializacion-en-investigacion-cientifica/)
+[ESPECIALIZACIÓN EN INVESTIGACIÓN CIENTÍFICA](https://postgrado.ingenieria.usac.edu.gt/programas-de-especializacion/investigacion-cientifica/)
 
 
